@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Project Description",
   "scripts": {
-    "start": "serve index.html"
+    "start": "serve"
   },
   "dependencies": {
     "serve": "^11.3.1"
